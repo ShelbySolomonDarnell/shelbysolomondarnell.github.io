@@ -24,13 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Affect is ones emotional state. As ML models improve and general AI becomes 
   closer to fruition, we must work toward consistently regarding human outcomes
   in response to this technology evolution.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "https://shelbysolomondarnell.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shelbysolomondarnell
 github_username:  ShelbySolomonDarnell
 
 # Build settings
-theme: minima # pages-themes/modernist@0.2.0
+theme: jekyll-theme-modernist # pages-themes/modernist@0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

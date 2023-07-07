@@ -8,4 +8,5 @@ permalink: /index/
 ---
 
 # Affect and Context Aware Computing for Genetics and Genomics
+
 ## A computer scientists GGI research journey
