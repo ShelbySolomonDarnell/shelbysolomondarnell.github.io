@@ -4,7 +4,7 @@
 
 layout: home
 title: "SCBI-Research-Journey-2023"
-permalink: /index
+permalink: /index/
 ---
 
 # Affect and Context Aware Computing for Genetics and Genomics
