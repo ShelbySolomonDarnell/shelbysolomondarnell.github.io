@@ -289,7 +289,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 
-remote_theme: pages-themes/modernist@v0.2.0
+%remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/time-machine@v0.2.0
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
