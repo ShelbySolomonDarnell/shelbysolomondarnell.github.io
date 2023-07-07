@@ -2,10 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: home
 title: "SCBI-Research-Journey-2023"
 permalink: /index/
 ---
 
 # Affect and Context Aware Computing for Genetics and Genomics
-#### A computer scientists GGI research journey
+## A computer scientists GGI research journey
