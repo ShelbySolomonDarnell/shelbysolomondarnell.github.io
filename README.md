@@ -1,2 +1,2 @@
-# shelbysolomondarnell.github.io
-research site
+# SCBI Coding and Genomes
+A research progress site
