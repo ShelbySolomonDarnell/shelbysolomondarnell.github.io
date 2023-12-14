@@ -19,7 +19,10 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+        <!--
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        -->
+        <h1>S. Solomon Darnell's Research</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
@@ -42,7 +45,9 @@
     {% if site.github.is_project_page %}
       <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
+    <!--
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+    -->
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
