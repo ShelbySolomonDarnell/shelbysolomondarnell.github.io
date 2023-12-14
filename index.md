@@ -12,7 +12,7 @@ permalink: /index/
 ---
 -->
 
-# Affect and Context Aware Computing for Genetics and Genomics
+# AI, Affect, and Human Centered Computing for Genetics and Genomics
 
 ## A computer scientists genetics/genomics research journey.
 
