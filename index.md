@@ -1,4 +1,4 @@
-
+<!--
 ---
 layout: default
 ---
@@ -10,6 +10,7 @@ title: "SCBI-Research-Journey-2023"
 ---
 permalink: /index/
 ---
+-->
 
 # Affect and Context Aware Computing for Genetics and Genomics
 
