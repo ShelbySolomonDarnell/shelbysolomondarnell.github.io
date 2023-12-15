@@ -1,5 +1,7 @@
 title: S. Solomon Darnell's Research
 description: Merging AI, Affect, Human Centered Computing and Identity with Genetics and Genomics
-show_downloads: false
+show_downloads: true
 google_analytics: false
 theme: jekyll-theme-modernist
+local:
+  cv_url: https://shelbysolomondarnell.github.io/cv.html
