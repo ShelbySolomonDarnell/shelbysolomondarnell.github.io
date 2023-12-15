@@ -5,3 +5,4 @@ google_analytics: false
 theme: jekyll-theme-modernist
 local:
   cv_url: https://shelbysolomondarnell.github.io/cv.html
+  bio_url: https://shelbysolomondarnell.github.io/biology.html

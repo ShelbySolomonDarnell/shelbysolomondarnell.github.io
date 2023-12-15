@@ -20,6 +20,7 @@ permalink: /index/
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 -->
   [Link to CV](./cv.html).
+  [Link to Biology](./biology.html).
 
 ```c++
 void Population::update()
