@@ -265,6 +265,25 @@ __Sera Thornton, :copyright: 2013 Broad Institute__
 If you want to take a closer look at the evolution of globin genes, check out this image.
 ![](/assets/images/biology/globin_evolution-01.png)
 
+
+### Genomics Images
+
+#### Positional Cloning
+__Sera Thornton, :copyright: 2013 Broad Institute__
+Here is a simplified example of applying positional cloning.
+![](/assets/images/biology/positional_cloning-01.png)
+
+#### SNP Diagram
+__Sera Thornton, :copyright: 2013 Broad Institute__
+What are SNPs (single nucleotide polymorphorisms)?
+![](/assets/images/biology/snp_diagram.png)
+
+#### Illumina Diagram
+__Sera Thornton, :copyright: 2013 Broad Institute__
+How does Illumina sequencing technology work?
+![](/assets/images/biology/Illumina_diagram.png)
+
+
 <!--
 #### Title 
 __  __
