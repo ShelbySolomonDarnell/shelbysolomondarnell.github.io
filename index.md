@@ -21,8 +21,42 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 -->
   [Link to CV](./cv.html).
   [Link to Biology](./biology.html).
+  [Link to Rational medicine resources](./rational_medicine.html)
 
 ```c++
+/** 
+  * Runs pedsim to get the fitness of the 
+  * candidate solution
+  */
+double Base::getCSFit( string cs )
+{
+	string configFile, pedsimExecute, fitnessFile ; 
+
+	configFile = getDirectory( "pedsim" ) + "config2.in" ;
+	pedsimExecute = getDirectory( "pedsim" ) + "pedsim" ;
+	fitnessFile = getDirectory( "pedsim" ) + "fit.in" ;
+
+	// Write the candidate solution to file so 
+	// that pedsim can read it
+	double fitness ;
+	ofstream out( configFile.c_str() ) ; 
+	out << cs << endl ;
+	out.close() ;
+
+	system( pedsimExecute.c_str() ) ;
+	//cout << "Pedsim execute " << pedsimExecute << endl ;
+
+	// Read the candidate solution fitness from the 
+	// file written by pedsim
+	ifstream in( fitnessFile.c_str() ) ; 
+	in >> fitness ;
+	if ( fitness == 0 ) { fitness = 100 ; }
+	in.close() ;
+
+	//cout << "Fitness from the base.cc file " << fitness << endl ;
+
+	return fitness ;
+}
 void Population::update()
 {
 	int index, 
