@@ -6,12 +6,21 @@ layout: default
 
 [back](./)
 
-[_Orc ID_ ]
+__ORC ID__ --> [_0000-0002-4841-4398_](https://orcid.org/0000-0002-4841-4398)
 
 
 ---
 ### Teaching Statement
 ---
+
+##### WHY? 
+With skills and experiences across a large number of years in technology why teach? For the strengthening, transmission, and improvement of ideas, techniques and knowledge. Working in tech has shown me that being stuck with a non-adaptive skill-set is to ones' detriment. As a lecturer one is introduced to new ideas and motivations through students, and in turn is able to do the same for them.
+	
+##### HOW?
+As a teaching assistant and lecturer I have found people learn best through doing, and learn best from someone who has practical knowledge, experience and skill. In a classroom I like to get students attention, introduce them to new best practices, and guide them on their own learning journeys. As a professor one must guide and support while providing motivation, inspiration and spirit. In technology I have worked as an IT administrator, software engineer, lecturer, contractor and researcher. I can speak to many types and levels of jobs in the area and guide students toward the type of career they desire. As a professor I like to see the application of learning. Throughout my classes practical work, applicable to my industry experience will be assigned. Students should leave a class I have taught knowing how a specific area of interest will propel them toward their goals, while having practiced the skill. Although my PhD is in Computer Science, I focused on Affecting Computing -- getting computers to understand human emotion. My work was the design, development and evaluation of a web application that enables teacher reflective practice. The study helped me learn there are many gaps between actual student engagement and teach perceived student engagement. As a goal, I believe it necessary to develop a continual feedback and reflective practice to tailor learning experiences for the students present in a class.
+		
+##### WHAT?
+Computing technology is becoming more integral to every walk of life with every passing day. Tools are being created on a daily basis to support human tasks and need improvement, re-imagining, and replacement. There are multiple areas of computing inquiry with humongous unexplored areas, and wide explored areas to which ones' imagination can be put to bare. Being able to spark imaginations and placing people on the right path toward scientific discovery is what I intend to do with my career.
 
 ---
 ### Research Statement
