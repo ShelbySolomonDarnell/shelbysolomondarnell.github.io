@@ -1,6 +1,5 @@
 # Introduction to Biology - The Secret of Life
 [back](./)
-[General Biology resources](./biology.html)
 
 MITx 7.00x
 

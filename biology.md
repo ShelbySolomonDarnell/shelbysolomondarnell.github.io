@@ -1,6 +1,6 @@
 # Introduction to Biology - The Secret of Life
 [back](./)
-[Recombinant DNA resources](./recombinant_dna.html)
+| [Recombinant DNA resources](./recombinant_dna.html)
 
 MITx 7.00x
 
