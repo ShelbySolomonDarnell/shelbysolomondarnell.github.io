@@ -22,9 +22,11 @@ As a teaching assistant and lecturer I have found people learn best through doin
 ##### WHAT?
 Computing technology is becoming more integral to every walk of life with every passing day. Tools are being created on a daily basis to support human tasks and need improvement, re-imagining, and replacement. There are multiple areas of computing inquiry with humongous unexplored areas, and wide explored areas to which ones' imagination can be put to bare. Being able to spark imaginations and placing people on the right path toward scientific discovery is what I intend to do with my career.
 
+<!--
 ---
 ### Research Statement
 ---
+-->
 
 ---
 ### Education
