@@ -12,6 +12,8 @@ These are directly from the online edX.org course.
 
 ### Links
 
+[Biochemistry of life](./lessons/biology/biochemistry_of_life.html)
+
 #### [How Geckos Stick on der Waals](http://www.sciencemag.org/news/2002/08/how-geckos-stick-der-waals)
 __Ben Shouse__
 How do they do it? find out here how geckos manage to stick to walls.
