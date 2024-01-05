@@ -1,6 +1,6 @@
 # Introduction to Biology - The Secrets of Life
 
-[back](../../)
+[back](../../biology.html)
 
 ## Biochemistry of Life
 
@@ -27,3 +27,33 @@
 1. Identify the basic building blocks of membranes, carbohydrates, and proteins.
 1. Draw the basic building blocks of membranes and carbohydrates.
 1. Explain why ATP is a high-energy molecule that can provide the energy to power cellular work.
+
+
+### Notes
+
+Humans are made out of mostly the following 6 atoms:
++ H - hydrogen 63%
++ O - oxygen 24%
++ C - carbon 10%
++ N - nitrogen 1.4%
++ P - phosphorus 0.2%
++ S - sulfur  < 0.1%
+and trace amounts of 
++ Ca - calcuim
++ Chloride 
++ Se - selenium
++ K - potassium
++ Na - Sodium
++ Magnesium
++ Manganese
+
+Human dry weight:
++ protein 50%
++ carbohydrate 15%
++ lipids and fats 10%
++ nucliec acids 15%
+
+
+Covalent bonds are shared pairs of electrons, very strong bonds.
+Covalent bond type: single, double, and triple.
+Bond strength is calculated by Kilocalories.
