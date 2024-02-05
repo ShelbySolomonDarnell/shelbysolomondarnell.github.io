@@ -14,7 +14,7 @@ What tools are needed to run the system, including analysis?
 + a 3GHz processor
 + can be run on a Raspberry PI
 
-*How ot input data for the automated process to kick-off.*
+*How to input data for the automated process to kick-off.*
 To use recommender systems as a data science assistant, we treat
 datasets as users, and algorithms as items. The goal of the AI is
 therefore as follows: given a dataset, recommend an algorithm con-
@@ -96,3 +96,27 @@ This papers contributions are:
 + Evaluation of existing models: 30 models are evaluated, allowing people to see how they rank holistically
 + Empirical findings: support other evaluations and adds new insights about how LLM work
 + Interactive results and codebase: both of which are public
+
+
+## 2022 GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics
+
+### Maxim Zvyagin
+
+Use LLms for genomics data that learn the evolutionary landscape virus genomes.
+The paper seems to be a mostly an HPC (high performance computing) LLM paper.
+The purpose of the LLM is to find emerging viral variants of concern (VOCs) in a timely manner so they can be acted upon.
+
+The works contributions are:
++ development of the largest biological LLM with 2.5B and 25B parameters, trained across 110M prokaryotic gene sequences, with openly available weights
++ designed and validated novel heirarchical transformer-based model using GPT on individual gene sequences and stable diffusion to capture context and longer-range interactions in genome-scale datasets
++ showcasing the training of foundation models on GPU systems and a supercomputers at NVIDIA, and on AI-accelerator hardware, while presenting scaling benchmarks that show how intensive training GenSLMs can be
+
+GenSLMs are part of a system that _learn to model whole-genome evolution patterns using LLMs based on observed data_. Could this research be useful to the Tree-of-Life work?
+
+## 2023 Retrieval-Augmented Generation for LLMs: A Survey
+ 
+### Yunfan Gao
+
+Do you like my RaG?
+Naive, Advanced and Modular
+
