@@ -6,3 +6,6 @@ theme: jekyll-theme-modernist
 local:
   cv_url: https://shelbysolomondarnell.github.io/cv.html
   bio_url: https://shelbysolomondarnell.github.io/biology.html
+
+name: Setup Ruby, JRuby and TruffleRuby
+  uses: ruby/setup-ruby@v1.218.0

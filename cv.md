@@ -55,20 +55,23 @@ Computing technology is becoming more integral to every walk of life with every 
 ---
 ### Awards, Grants \& Honors {#awards}
 ---
-+ 2020 December - **Award** United Nations Office on Drugs and Crime (UNODC) East Africa Blockchain Hackathon, Best Hyperledger Implementation
-+ 2015 November - **Honor** Research Post-Doc with IBM Research Headquarters in Yorktown Heights, NY
-+ 2015 June - **Honor** Research Scientist Internship with IBM Research Africa
-+ 2015 May - **Award** PhD in Computer Science
-+ 2014 January - **Award** Scholarship for CHI Doctoral Consortium
-+ 2013 - **Award** Clemson University School of Computing Outstanding PhD Student
-+ 2013 August - **Award** Southern Region Education Board (SREB) Doctoral Dissertation Fellowship
-+ 2012 - **Honor** Induction into Alpha chapter of Upsilon Pi Epsilon Honor Society
-+ 2010 - **Award** Clemson University Alumni Doctoral Fellowship
-+ 2009-2015 - **Award** Clemson University Graduate School Fellowship
-+ 2009-2010 - **Award** PhD Fellowship to Purdue University Computer Technology and Information Department
-+ 2001-2002 - **Award** Undergrad Scholarship to Auburn University by Alabama Power Foundation
-+ 2001-2002 - **Award** Undergrad Scholarship to Auburn University by William F. and Brenda W. Hayes
-+ 2001 - **Honor** National Honor Society Induction - Tau Sigma at Auburn University 
+
+|**Year**|**Year/Month**|**Type**|**Description**|
+|:--:|:--:|:---:|:--|
+|2020 | Dec |**Award**| United Nations Office on Drugs and Crime (UNODC) East Africa Blockchain Hackathon, Best Hyperledger Implementation|
+|2015 | Nov|**Honor**|Research Post-Doc with IBM Research Headquarters in Yorktown Heights, NY|
+| 2015 | Jun | **Honor** | Research Scientist Internship with IBM Research Africa |
+| 2015 | May | **Award** | PhD in Computer Science |
+| 2014 | Jan | **Award** | Scholarship for CHI Doctoral Consortium | 
+| 2013 | | **Award** | Clemson University School of Computing Outstanding PhD Student |
+| 2013 | Aug | **Award** | Southern Region Education Board (SREB) Doctoral Dissertation Fellowship |
+| 2012 | | **Honor** | Induction into Alpha chapter of Upsilon Pi Epsilon Honor Society |
+| 2010 | | **Award** | Clemson University Alumni Doctoral Fellowship |
+| 2015 | 2015 | **Award** | Clemson University Graduate School Fellowship |
+| 2010 | 2009 | **Award** | PhD Fellowship to Purdue University Computer Technology and Information Department |
+| 2002 | 2001 | **Award** | Undergrad Scholarship to Auburn University by Alabama Power Foundation |
+| 2002 | 2001 | **Award** | Undergrad Scholarship to Auburn University by William F. and Brenda W. Hayes |
+| 2001 || **Honor** | National Honor Society Induction - Tau Sigma at Auburn University |
 
 ---
 ### Patents {#patents}
@@ -119,7 +122,7 @@ Computing technology is becoming more integral to every walk of life with every 
 
 
 -------
-### Technical {#technical}
+### Technical Skills {#technical}
 -------
 
 Skills | and | Languages | | |
