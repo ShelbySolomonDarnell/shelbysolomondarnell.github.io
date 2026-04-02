@@ -18,16 +18,16 @@ Education
 Work Experience
 ======
 
-Bascom Palmer Eye Institute at University of Miami Health System \\
-: __2025-2026__ *Research Fellow \& AI expert*
+##### Bascom Palmer Eye Institute at University of Miami Health System 
+__2025-2026__ *Research Fellow \& AI expert*
 * Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
-\\
-GeneNetwork at UTHSC \\
+
+##### GeneNetwork at UTHSC 
 : __2022-2025__ *Research Fellow & Contractor* 
   * Develop optimal way to improve GeneNetwork and UTHSC genetics, genomics and informatics research with affective, human-centered computing and AI.
   * Develop and implement AI/ML/Causal research for GeneNetwork project
-\\
-Strathmore University @iLabAfrica Research Center  \\
+
+##### Strathmore University @iLabAfrica Research Center
 : __2020-2022__ *Research & Academic Director*
    * Initiate masters degree program in Data Science and Analytics (DSA)
    * Accepted initial cohort into DSA program
@@ -40,42 +40,20 @@ Strathmore University @iLabAfrica Research Center  \\
 : __2021__ *Software Architect Contractor*
 
 #### 2010-2019
-Solomon Ventures LLC & Tint Right Colour Enterprise
-: __2019__ *Solution/System Architecting, Development, and Consulting*
-    [-] Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
+##### Solomon Ventures LLC & Tint Right Colour Enterprise
+  __2019__ *Solution/System Architecting, Development, and Consulting*
+  * Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
 
-Techno Brain Group LLC
-: __2019__ *Product Manager, Identity Management (IDM) Business Unit*
-  [-] Developed a new architecture to revamp twelve (12) year old software offering. 
-  [-] Lead the development of a proof of concept implementation of the architecture, personally building several services. 
-  [-] Led interaction with client, a country technology representative in the office of the president. 
-  [-] Consulted, planned and tested migration of company wide software DevOPs.
-<!--
+##### Techno Brain Group LLC
+  __2019__ *Product Manager, Identity Management (IDM) Business Unit*
+  * Developed a new architecture to revamp twelve (12) year old software offering. 
+  * Lead the development of a proof of concept implementation of the architecture, personally building several services. 
+  * Led interaction with client, a country technology representative in the office of the president.
+  * Consulted, planned and tested migration of company wide software DevOPs.
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -97,5 +75,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
--->
+* Organizer - Mempang2023/2024
