@@ -21,12 +21,13 @@ Work Experience
 Bascom Palmer Eye Institute at University of Miami Health System \\
 : __2025-2026__ *Research Fellow \& AI expert*
 * Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
-
-GeneNetwork at UTHSC
+\\
+GeneNetwork at UTHSC \\
 : __2022-2025__ *Research Fellow & Contractor* 
   * Develop optimal way to improve GeneNetwork and UTHSC genetics, genomics and informatics research with affective, human-centered computing and AI.
   * Develop and implement AI/ML/Causal research for GeneNetwork project
-Strathmore University @iLabAfrica Research Center 
+\\
+Strathmore University @iLabAfrica Research Center  \\
 : __2020-2022__ *Research & Academic Director*
    * Initiate masters degree program in Data Science and Analytics (DSA)
    * Accepted initial cohort into DSA program
