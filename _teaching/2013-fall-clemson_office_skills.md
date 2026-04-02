@@ -10,14 +10,14 @@ location: "Auburn, Alabama, USA"
 
 Taught basic computer usage skills to undergraduates, specifically the Microsoft Office suite of tools.
 
-Heading 1
+Experiential Learning
 ======
 Led a practical skills lab to support student learning
 
-Heading 2
+Management
 ======
 Managed two work study students who supported the class labs.
 
-Heading 3
+Classroom Lecturing
 ======
 Taught two classes in this semester.
