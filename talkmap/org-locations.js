@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Professor S on the Role of AI and Blockchain in identities, financial inclusion and governance<br />Gochappa podcast @ the Nairobi Garage; Kilimani, Nairobi, KENYA",
+    -1.2960146,
+    36.7817791
   ],
   [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
