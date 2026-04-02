@@ -5,6 +5,11 @@ var addressPoints = [
     36.7817791
   ],
   [
+    "Panel: Web3 for Gender Equity<br />iHUB; Kilimani, Nairobi, KENYA",
+    -1.2960146,
+    36.7817791
+  ],
+  [
     "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
     34.0536909,
     -118.242766
