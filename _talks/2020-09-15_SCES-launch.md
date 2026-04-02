@@ -2,7 +2,7 @@
 title: "Keynote: Embracing a Changing Society: Through the convergence of Computing and Engineering"
 collection: talks
 type: "Keynote"
-permalink: /talks/2020-09-15_SCES-opening
+permalink: /talks/2020-09-15_SCES-launch
 venue: "Strathmore University, School of Business Auditorium"
 date: 2020-09-15
 location: "Madaraka Estate, Nairobi, KENYA"
