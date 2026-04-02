@@ -5,6 +5,11 @@ var addressPoints = [
     36.7817791
   ],
   [
+    "Keynote: Embracing a Changing Society: Through the convergence of Computing and Engineering<br />Strathmore University, School of Business Auditorium; Madaraka Estate, Nairobi, KENYA",
+    -1.3074039,
+    36.8153361
+  ],
+  [
     "Panel: Web3 for Gender Equity<br />iHUB; Kilimani, Nairobi, KENYA",
     -1.2960146,
     36.7817791
