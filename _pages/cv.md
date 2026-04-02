@@ -14,7 +14,7 @@ Education
 * Ph.D in Computer Science, *Affective Computing*, Clemson University, 2015
 * M.S in Software Engineering, *Artificial Intelligence*, 2006
 * B.S. in Computer Engineering, Auburn University, 2003
-
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,3 +62,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
