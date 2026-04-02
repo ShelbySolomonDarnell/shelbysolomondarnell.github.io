@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * Ph.D in Computer Science, *Affective Computing*, Clemson University, 2015
 * M.S in Software Engineering, *Artificial Intelligence*, 2006
 * B.S. in Computer Engineering, Auburn University, 2003
