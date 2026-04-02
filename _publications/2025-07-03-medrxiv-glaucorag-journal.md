@@ -7,7 +7,7 @@ excerpt: 'This paper about the creation of a ophthalmologists clinical support t
 date: 2025-07-03
 venue: 'medRxiv/PubMed'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12265780/pdf/nihpp-2025.07.03.25330805v1.pdf'
-citation: 'Aminan M, Darnell SS, Delsoz M, Nabavi A, Wright C, Jerkins B, Yousefi S. GlaucoRAG: A Retrieval-Augmented Large Language Model for Expert-Level Glaucoma Assessment. medRxiv [Preprint]. 2025 Jul 7:2025.07.03.25330805. doi: 10.1101/2025.07.03.25330805. PMID: 40672509; PMCID: PMC12265780.'
+citation: 'Aminan M, Darnell SS, Delsoz M, Nabavi A, Wright C, Jerkins B, Yousefi S. GlaucoRAG: A Retrieval-Augmented Large Language Model for Expert-Level Glaucoma Assessment. medRxiv. 2025 Jul 7:2025.07.03.25330805. doi: 10.1101/2025.07.03.25330805. PMID: 40672509; PMCID: PMC12265780.'
 ---
 Accurate glaucoma assessment is challenging because of the complexity and chronic nature of the disease; 
 therefore, there is a critical need for models that provide evidence-based, accurate assessment. 
