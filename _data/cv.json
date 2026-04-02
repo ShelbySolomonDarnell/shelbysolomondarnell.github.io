@@ -3,20 +3,20 @@
     "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://shelbysolomondarnell.github.io",
+    "summary": "Learner at large",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Hotsville Mars",
+      "postalCode": "00900",
       "city": "Earth",
       "countryCode": "US",
-      "region": ""
+      "region": "Dat way"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=UgQjoGsAAAAJ"
       },
       {
         "network": "ORCID",
@@ -25,39 +25,39 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "shelbysolomondarnell",
+        "url": "https://github.com/shelbysolomondarnell"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Clemson University",
+      "area": "Ph.D in Computer Science",
+      "studyType": "Affective Computing",
+      "startDate": "2009",
+      "endDate": "2015",
       "gpa": null,
-      "courses": []
+      "courses": ["all of them"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Auburn University",
+      "area": "M.S in Software Engineering",
+      "studyType": "Artificial Intelligence",
+      "startDate": "2003",
+      "endDate": "2006",
       "gpa": null,
-      "courses": []
+      "courses": ["a lot of them"]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Auburn University",
+      "area": "B.S. in Computer Engineering",
+      "studyType": "normal",
+      "startDate": "2000",
+      "endDate": "2003",
       "gpa": null,
-      "courses": []
+      "courses": ["many of em"]
     }
   ],
   "skills": [],
