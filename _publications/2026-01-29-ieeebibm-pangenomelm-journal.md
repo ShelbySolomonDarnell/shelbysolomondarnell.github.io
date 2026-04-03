@@ -1,7 +1,7 @@
 ---
 title: "Pangenome-informed Language Models for Synthetic Genome Sequence Generation"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2026-01-29-ieeebibm-pangenomelm-journal.md
 excerpt: 'We introduce three innovative pangenome-based tokenization schemes that enhance DNA sequence generation.'
 date: 2026-01-29
