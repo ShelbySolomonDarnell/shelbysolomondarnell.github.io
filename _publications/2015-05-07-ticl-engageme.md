@@ -3,7 +3,7 @@ title: "EngageMe: Designing a Visualization Tool Utilizing Physiological Feedbac
 collection: publications
 category: manuscripts
 permalink: /publication/2015-05-07-ticl-engageme.md
-excerpt: 'Because the conditions under which engagement is elicited may vary, EngageMe, a visualization tool whose purpose is to assist instructors' efforts to understand student engagement in the learning process, has been developed.'
+excerpt: 'Because the conditions under which engagement is elicited may vary, EngageMe, a visualization tool whose purpose is to assist instructors efforts to understand student engagement in the learning process, has been developed.'
 date: 2015-05-07
 venue: 'Technology, Instruction, Cognition and Learning'
 slidesurl: ''
