@@ -2,7 +2,7 @@
 title: "GlaucoRAG: A Retrieval-Augmented Large Language Model for Expert-Level Glaucoma Assessment"
 collection: publications
 category: conferences
-permalink: /publication/2025-07-03-glaucorag
+permalink: /publication/2025-07-03-medrxiv-glaucorag.md
 excerpt: 'This paper about the creation of a ophthalmologists clinical support tool using LLMs'
 date: 2025-07-03
 venue: 'medRxiv/PubMed'
