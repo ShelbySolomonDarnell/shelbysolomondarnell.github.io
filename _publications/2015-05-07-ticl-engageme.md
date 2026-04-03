@@ -1,4 +1,3 @@
-
 ---
 title: "EngageMe: Designing a Visualization Tool Utilizing Physiological Feedback to Support Instruction"
 collection: publications
