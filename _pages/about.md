@@ -7,7 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-A lot of stuff about amazing research and new tech capabilities of import to myself.
+### Research Philosophy
+My research focuses on advancing AI systems that are both powerful and practically deploy-able, exemplified by retrieval-augmented generation (RAG), neural architectures for vision and language, and responsible AI. During my postdoctoral appointments at the University of Miami Health System and the University of Tennessee Health Sciences Center, I developed specialized RAG tools that outperformed base LLMs on clinical diagnostics, deployed an AI expert system on the [GeneNetwork.org](https://genenetwork.org/) platform, and contributed to a glaucoma assessment model (GlaucoRAG) now under peer review. My earlier work at IBM resulted in five patents covering biometric cryptosystems, blockchain-based identity management, and real-time AI applications for resource-constrained environments. I have published in venues ranging from _IEEE Transactions on Information Forensics and Security_ to _Frontiers in Blockchain_ and have collaborated extensively across disciplines—including ophthalmology, genetics, and education—demonstrating my ability to build externally funded, collaborative research programs. Going forward, I aim to establish a research group focused on next-generation information retrieval, multimodal AI, and trustworthy AI systems, with a strong emphasis on securing federal and industry funding to support graduate students and address societal challenges.
+
+### Teaching Philosophy
+I am deeply committed to inclusive and innovative engineering education. As Research & Academic Director at @iLabAfrica Strathmore, I led the creation of a Master’s in Data Science and Analytics program and taught graduate courses in fundamentals of computing and advanced machine learning, mentoring students from diverse backgrounds. I believe in blending theoretical rigor with hands-on projects that prepare students for real-world AI development. My approach emphasizes active learning, collaborative problem-solving, and connecting course concepts to current research and industry applications. I have also mentored remote developers and graduate students in software development, and I am eager to advise additional undergraduate and graduate researchers, guide them in securing fellowships, and help them build successful careers in computing. I am particularly interested in developing collaborative courses at the intersection of advanced biology, blockchain AI, data science, and ethics, as well as contributing to departmental efforts to broaden participation in computing.
+
+### Technical Professional Summary
+Adaptive Research Engineer with **10+ years of professional development experience** in object-oriented languages (Java, Go, C++, Python) and  **5+ years specializing in blockchain, AI, Web3, and distributed systems** . Proven technical leader with experience directing teams of 4-8+ engineers on production-grade architecture and system design. Hold **5 USPTO patents** including 3 in blockchain technology. Expert in smart contract development, RESTful API design, and cloud-native architectures deployed on AWS, Azure, and GCP. Strong advocate for code quality, comprehensive test coverage, and continuous delivery practices. Track record of shipping production systems that scale while maintaining high reliability and user experience.
+
+* **Researcher-level depth** (Ph.D., 15+ publications, 5 patents)
+* **Engineer-level execution** (ships production code, full-stack, multiple languages)
+* **Leader-level vision** (directed programs, founded ventures, mentored teams)
+
+
 
 [Check out my biology resources!](biology.md)
 
