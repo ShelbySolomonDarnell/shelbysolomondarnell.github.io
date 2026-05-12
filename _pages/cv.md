@@ -36,11 +36,13 @@ Work Experience
 #### Bascom Palmer Eye Institute at University of Miami Health System 
 __2025-2026__ *Research Fellow and AI expert*
 * Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
+* Use python research stack for neural network evaluation and benchmarking
 
 #### GeneNetwork at UTHSC 
 : __2022-2025__ *Research Fellow and Contractor* 
   * Develop optimal way to improve GeneNetwork and UTHSC genetics, genomics and informatics research with affective, human-centered computing and AI.
   * Develop and implement AI/ML/Causal research for GeneNetwork project
+  * AI support for Panorama grant
 
 #### Strathmore University @iLabAfrica Research Center
 : __2020-2022__ *Research and Academic Director*
@@ -66,8 +68,17 @@ __2025-2026__ *Research Fellow and AI expert*
   * Led interaction with client, a country technology representative in the office of the president.
   * Consulted, planned and tested migration of company wide software DevOPs.
 
-Work experience
-======
+### IBM Research
+  __2016-2018__ *Research Scientist*
+  * Investigate identity and security on blockchain using biometrics. 
+  * Research and implementation of state-of-the-art cancelable biometric techniques to create a pastoral identity solution to aide developing and war torn countries with emergency identity management. 
+
+  __2015-2016__ *Research Post-doc*
+  * Further explored computer vision techniques for tracking and uniquely identifying dark-skinned children in a classroom under hardware and network resource constraints. 
+  * Published patent.
+
+  __2015__ *Research Intern*
+  * Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints.
 
 
 Publications
@@ -75,6 +86,15 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patents
+======
++ 2018 Oct 18 - [**US20180300830A1**](https://patents.google.com/patent/US20180300830A1/en) - *Configuring classroom physical resources*
++ 2018 Nov 11 - [**US20180315145A1**](https://patents.google.com/patent/US20180315145A1/en) - *Managing school systems on a blockchain*
++ 2019 [**US 2019/0378142 A1**](https://patents.google.com/patent/US20190378142A1/) - *Biometric token for Blockchain*
++ 2020/2021 (Applied/Granted) -- [**US10922588B2**](https://patents.google.com/patent/US10922588B2/en) - *Identification and/or verification by a consensus network using sparse parametric representations of biometric images*
++ 2018/2020 (Applied/Granted) -- [**US10713963B2**](https://patents.google.com/patent/US10713963B2/en) - *IManaging lifelong learner events on a Blockchain*
+
   
 Talks
 ======
