@@ -80,6 +80,19 @@ __2025-2026__ *Research Fellow and AI expert*
   __2015__ *Research Intern*
   * Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints.
 
+### Clemson University
+  __2009-2015__ *Graduate Researcher*
+  * Research, development and publishing in Affective computing, human centered computing and biometrics
+  * Organize and mentor research experience for undergraduates program
+  * Research lab list: Affective Computing (AC) Lab Human Centered Computing (HCC) Lab, Biometric and Pattern Recognition (BPR) Lab
+  * Create a platform to support teacher's reflective practice in the classroom based on student engagement
+  * Develop a grammer using voice XML to enable vocal interaction for an online shopping app
+  * Developed an Amazon-like voice-enabled website to help the elderly shop more easily
+  * Research and improve 2.5D finger surface recognition using computational intelligence
+  * Research and publish on periocular biometric identification in the visible and infrared spectra
+
+  *Graduate Teacher*
+  * Teach class and lead laboratory on computing fundamentals
 
 Publications
 ======
