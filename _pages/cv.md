@@ -126,7 +126,7 @@ Service and leadership
 * Organizer - Mempang2023/2024
 
 
-### Awards, Grants \& Honors
+Awards, Grants \& Honors
 ======
 
 | **Year** | **Year/Month** | **Type** | **Description**                                                                                              |
@@ -145,5 +145,3 @@ Service and leadership
 |      2002      |         2001         | **Award** | Undergrad Scholarship to Auburn University by Alabama Power Foundation                                             |
 |      2002      |         2001         | **Award** | Undergrad Scholarship to Auburn University by William F. and Brenda W. Hayes                                       |
 |      2001      |                      | **Honor** | National Honor Society Induction - Tau Sigma at Auburn University                                                  |
-
----
