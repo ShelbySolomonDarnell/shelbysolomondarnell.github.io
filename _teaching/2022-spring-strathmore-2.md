@@ -3,7 +3,7 @@ title: "Semester 1: 2022 Advanced Machine Learning"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-strathmore-2
-venue: "Strathmore University, @iLabAfrica"
+venue: "Strathmore University, School of Information and Computer Sciences"
 date: 2022-01-07
 location: "Nairobi, Nairobi County, KENYA"
 ---
