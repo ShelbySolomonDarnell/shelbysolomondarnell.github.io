@@ -1,8 +1,8 @@
 ---
-title: "Fall 2003 Basic Computing Skills"
+title: "2003-2005 Basic Computing Skills"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2003-fall-teaching-1
+permalink: /teaching/2003-2005-years-teaching-auburn
 venue: "Auburn University, Computer Science and Software Engineering"
 date: 2003-08-11
 location: "Auburn, Alabama, USA"
