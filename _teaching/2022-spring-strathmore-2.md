@@ -8,19 +8,14 @@ date: 2022-01-07
 location: "Nairobi, Nairobi County, KENYA"
 ---
 
-Taught basic computer usage skills to undergraduates, specifically the Microsoft Office suite of tools.
-Teaching low experience coders how to use Python for data science application development. 
-Graduates learned about problem solving with python, iterators, list comprehension and a basic usage of python data science libraries.
+Taught computer science Ph.D. students advanced machine learning.
+Teaching students how to combine multiple optimization algorithms to support model training in various ways.
 
 Experiential Learning
 ======
-The class worked on a hybrid model as the country had yet to be re-opened fully due to COVID-19; hence, we had in class and online support simultaneously during lecture.
-
-
-Management
-======
-Managed a graduate student supporter, who helped students with assignments and in class learning.
+Advanced graduate students are expected to learn well on their own with minimal supervision. 
+For this class all experiential learning was done of the students own time.
 
 Classroom Lecturing
 ======
-Taught the inaugural class for the spring semester.
+This course followed a classical in-person curricula.
